@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+9bc158b5be483019b81c64c8b4a2beb8 csd-to-metric-collector-grpc.pb.cc

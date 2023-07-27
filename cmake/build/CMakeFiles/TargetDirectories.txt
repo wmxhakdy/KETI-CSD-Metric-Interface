@@ -1,0 +1,4 @@
+/root/workspace/dhj/csd-metric-interface-grpc/cmake/build/CMakeFiles/rebuild_cache.dir
+/root/workspace/dhj/csd-metric-interface-grpc/cmake/build/CMakeFiles/edit_cache.dir
+/root/workspace/dhj/csd-metric-interface-grpc/cmake/build/CMakeFiles/CSDMetricInfoClient.dir
+/root/workspace/dhj/csd-metric-interface-grpc/cmake/build/CMakeFiles/mc_grpc_proto.dir
