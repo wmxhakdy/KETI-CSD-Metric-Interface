@@ -2,7 +2,7 @@
 -------------
 KETI-CSD-Metric-Collector for KETI-OpenCSD Platform
 
-communication interface between CSD and KETI-OpenCSD Storage Node for CSD's metric
+communication interface for CSD's metric between CSD and KETI-OpenCSD Storage Node
 
 Developed by KETI
 
